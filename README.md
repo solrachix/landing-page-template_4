@@ -1,4 +1,4 @@
-<p align="center">A platform built to broadcast a specific podcast, Faladev by Rocketseat.</p>
+<p align="center">Ultimate support system for leading agencies</p>
 
 <p align="center">
   <a href="https://github.com/solrachix">
