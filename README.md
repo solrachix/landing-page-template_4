@@ -7,15 +7,15 @@
   <a href="https://www.linkedin.com/in/carlos-miguel-380413197">
     <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Carlos%20Miguel-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/solrachix/landing-page-template_3?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/solrachix/landing-page-template_4?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
 	<br />
-  <a href="https://github.com/solrachix/landing-page-template_3/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/solrachix/landing-page-template_3?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
+  <a href="https://github.com/solrachix/landing-page-template_4/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/solrachix/landing-page-template_4?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
   <br />
-  <a href="https://github.com/solrachix/landing-page-template_3/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/solrachix/landing-page-template_3?style=for-the-badge&labelColor=5965e0&color=5965e0&logo=github">
+  <a href="https://github.com/solrachix/landing-page-template_4/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/solrachix/landing-page-template_4?style=for-the-badge&labelColor=5965e0&color=5965e0&logo=github">
   </a>
 </p>
 <p align="center">
@@ -39,7 +39,7 @@
 - Clone this repo to your local machine using:
 
 ```
-https://github.com/solrachix/landing-page-template_3
+https://github.com/solrachix/landing-page-template_4
 ```
 
 ### Setup
@@ -88,7 +88,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Step 2
 
-- 👯 Clone this repo to your local machine using `https://github.com/solrachix/landing-page-template_3`
+- 👯 Clone this repo to your local machine using `https://github.com/solrachix/landing-page-template_4`
 
 ### Step 3
 
