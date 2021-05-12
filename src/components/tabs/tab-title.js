@@ -1,5 +1,5 @@
-/** @jsx jsx */
-import { Fragment } from 'react';
+
+import { Fragment } from 'react';/** @jsx jsx */
 import { jsx, Text } from 'theme-ui';
 
 const TabTitle = ({ tab }) => {

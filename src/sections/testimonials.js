@@ -1,5 +1,5 @@
-/** @jsx jsx */
-import dynamic from 'next/dynamic';
+
+import dynamic from 'next/dynamic';/** @jsx jsx */
 import { jsx, Box, Container } from 'theme-ui';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SectionHeading from 'components/section-heading';

@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { useRef, useEffect, useState } from 'react';
-import { rgba } from 'polished';
+import { rgba } from 'polished';/** @jsx jsx */
 import { jsx, Box, Container } from 'theme-ui';
 import Tabs, { TabPane } from 'rc-tabs';
 import TabTitle from 'components/tabs/tab-title';

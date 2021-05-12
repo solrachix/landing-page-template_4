@@ -1,6 +1,6 @@
-/** @jsx jsx */
+
 import { useState, useCallback } from 'react';
-import { keyframes } from '@emotion/core';
+import { keyframes } from '@emotion/core';/** @jsx jsx */
 import { jsx, Box, Grid, Container, Flex, Text, Button } from 'theme-ui';
 import SectionHeading from 'components/section-heading';
 import PriceTable from 'components/cards/price-table';
